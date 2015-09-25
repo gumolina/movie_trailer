@@ -1,0 +1,15 @@
+## README ##
+
+To create a website with your favorite movies, do the following:
+
+1) Open the file entertainment_center.py
+2) Look for the string ### ADD HERE MORE MOVIES ###
+3) Add movies with the following pattern:
+
+movies.append(media.Movie("NAME OF THE MOVIE",
+						  "SYNOPSIS",
+						  "COVER ART",
+						  "YOUTUBE LINK"))
+4) Run the file
+5) the .html will be saved on the same folder, under the name "fresh_tomatoes.html"
+6) Enjoy!
